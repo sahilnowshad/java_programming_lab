@@ -95,5 +95,6 @@ public class product_in_voice_system{
         p.applyDiscount();
         p.applyTax();
         p.generateInvoice();
+        
     }
 }
